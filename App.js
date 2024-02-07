@@ -9,7 +9,8 @@ import {
 
 export default function App() {
   const vai = () => {
-    Alert.alert("Tanaka", "Fala Parça!!!");
+    Alert.alert("Tanaka 🤘", "Fala Parça!!!");
+    console.log("Teste!!");
   };
 
   return (
